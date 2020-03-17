@@ -19,3 +19,4 @@ You can visit [wikipedia page](https://en.wikipedia.org/wiki/Super_Mario_Bros.) 
 
 ### Pause Screen
 ![pause screen](https://raw.githubusercontent.com/ahmetcandiroglu/1G.Super-Mario-Bros/master/docs/Screenshots/Pause%20screen.png)
+[![Run on Repl.it](https://repl.it/badge/github/ahmetcandiroglu/Super-Mario-Bros)](https://repl.it/github/ahmetcandiroglu/Super-Mario-Bros)
